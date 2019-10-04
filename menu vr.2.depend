@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570204146 source:c:\users\rafal\onedrive\nauka\c++\cwiczenia\menu vr.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+
